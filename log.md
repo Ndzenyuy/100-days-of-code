@@ -15,4 +15,4 @@
 
 **Thoughts:** I was able to make react components and based on conditions passed in, i could select the component to be rendered. I also could call a component passing properties.
 
-**Link to work:** [React Components](https://github.com/Ndzenyuy/React/tree/main/react-components)
+**Link to work:** [React Components](https://github.com/Ndzenyuy/React/tree/main/conditional-rendering-practice-forked)
