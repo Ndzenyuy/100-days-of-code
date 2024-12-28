@@ -32,4 +32,20 @@
 
 **Thoughts:** I was able to implement these function in an application. A Todo app where users can add, modify or delete items in the application
 
-**Link to work:** [React Components](https://github.com/Ndzenyuy/React/tree/main/day-3-event-handling-in-react)
+**Link to work:** [React Components](https://github.com/Ndzenyuy/React/tree/main/day-4-mapping-components-practice)
+
+### Day 5: December 27, 2024
+
+**Today's Progress**: Learned How to manage React complex states
+
+**Thoughts:** I was able to manage state with complex data structure, Store first name and Last name in the same json object and manipulate each of them without affecting the others
+
+**Link to work:** [React Components](https://github.com/Ndzenyuy/React/tree/main/day-5-changing-complex-state)
+
+### Day 6: December 28, 2024
+
+**Today's Progress**: Learned How to manage React component tree
+
+**Thoughts:** I was able to use events to manage components, delete, edit or mark as done in a todo list app. The triggering event is passed the id of the component and using filter function, i could delete the passed items.
+
+**Link to work:** [React Components](https://github.com/Ndzenyuy/React/tree/main/day-5-changing-complex-state)
